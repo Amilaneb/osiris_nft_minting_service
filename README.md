@@ -1,0 +1,1 @@
+# osiris_nft_minting_service
